@@ -29,95 +29,56 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## Table of Contents
 
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
 
 
 ## SaaS/Hosted Platforms
 
-- **[Nexudus](https://www.nexudus.com/)**  
-
-  Comprehensive coworking and flexible workspace management platform covering memberships, resource booking, billing, access control, CRM, and multi-location operations.
-
-- **[OfficeRnD](https://www.officernd.com/)**  
-
-  Popular all-in-one platform for coworking and hybrid workplaces with strong membership management, desk/room booking, billing, analytics, and integrations.
-
-- **[Cobot](https://www.cobot.me/)**  
-
-  Straightforward coworking management software focused on memberships, automated invoicing, resource booking, and multi-language support — known for simplicity and reliability.
-
-- **[Optix](https://www.optixapp.com/)**  
-
-  Mobile-first workspace management platform with booking, memberships, automation, and extensive integrations for modern flexible spaces.
-
-- **[Yardi Kube](https://www.yardi.com/)**  
-
-  Enterprise-grade flexible workspace and coworking solution within the Yardi ecosystem, offering portals, reporting, and large-scale operations support.
-
-- **[Satellite Deskworks](https://www.satellitedeskworks.com/)**  
-
-  Coworking and shared workspace management platform with membership, booking, and operational tools.
-
-- **[Essensys](https://essensys.tech/)**  
-
-  Technology and software platform for flexible workspace operators, covering connectivity, space management, and member experience.
-
-- **[Archie](https://archieapp.co/)**  
-
-  Modern coworking and flexible office management software with booking, memberships, community features, and clean member experience.
-
-- **[Proximity Space](https://www.proximity.space/)**  
-
-  Coworking management platform focused on operations, member engagement, and space utilization.
-
-- **[Spacebring](https://www.spacebring.com/)**  
-
-  Platform for coworking and shared office management used by networks and independent spaces, covering bookings, memberships, and member services.
-
-- **[Andcards](https://www.andcards.com/)** / **[Zapfloor](https://www.zapfloor.be/)** / other regional players  
-
-  Additional platforms offering membership, booking, and community tools tailored to specific markets or operator sizes.
+| Platform | Key Focus & Features | Starting Price | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Nexudus](https://www.nexudus.com/)** | All-in-one coworking management platform covering memberships, resource booking, billing, access control, CRM, and multi-location operations. | **$150 / month** (base fee for up to 50 active users; scales dynamically with active monthly member count) | **21-day free trial** with full access to core platform features and configuration (requires payment details or cancellation notice before trial expiration). |
+| **[OfficeRnD](https://www.officernd.com/)** | Flexible workspace & hybrid workplace platform offering automated billing, desk/room reservations, member portal, analytics, and CRM integrations. | **$165 / month** (billed annually, or $185/mo billed monthly for OfficeRnD Flex; Workplace plan starts at $99/mo for up to 150 users) | **14-day free trial** for Workplace edition with full access to professional features (extendable by 7 days upon request; Flex edition offers guided interactive demo). |
+| **[Cobot](https://www.cobot.me/)** | Straightforward coworking software focused on automated invoicing, membership management, resource bookings, and multi-language support. | **$59 / month** (or €59/mo for up to 15 active members; scales based on active monthly member tiers) | **30-day free trial** with unrestricted full access to all features (no credit card required; indefinite trial extension available for spaces not yet opened). |
+| **[Optix](https://www.optixapp.com/)** | Mobile-first workspace management platform with custom-branded app, desk/room bookings, membership management, and workflow automation. | **$159 / month** (Essentials tier for up to 50 active users; Pro starts at $239/mo for up to 100 users) | **14-day free trial** with full feature access to test mobile booking workflows and member management (no credit card required). |
+| **[Yardi Kube](https://www.yardikube.com/)** | Enterprise-grade flexible workspace solution within the Yardi ecosystem offering accounting, operations, booking portals, and reporting. | **$349 / site / month** (Yardi Kube Start plan for single-site operators; quote-based Core/Pro tiers for large networks) | **No free tier or free trial** (provides personalized interactive live product demonstration and operational assessment upon request). |
+| **[Satellite Deskworks](https://www.satellitedeskworks.com/)** | Coworking and shared workspace management system with automated billing, network check-in, and meeting room/desk reservation. | **$65 / month** (base tier for up to 15 members; flat-rate standard packages start at $125/mo) | **No free tier or free trial** (provides scheduled personalized live product demonstration and workflow consultation). |
+| **[Essensys](https://essensys.tech/)** | Enterprise software & digital infrastructure platform for flexible spaces, managing building operations, WiFi provisioning, and IoT access. | **~£1,200 / month** (~$1,500/mo enterprise base pricing tailored to building square footage, locations, and network hardware scope) | **No free tier or free trial** (requires enterprise infrastructure integration; live product walkthrough and technical consultation available upon request). |
+| **[Archie](https://archieapp.co/)** | Modern coworking management software with contactless check-in, room/desk reservations, member directory, community feed, and invoicing. | **$165 / location / month** (billed annually, or $192/mo billed monthly on Starter plan) | **14-day free trial** with full feature sandbox access to test workspace scheduling and member management (provided via demo onboarding setup). |
+| **[Proximity Space](https://www.proximity.space/)** | Coworking management platform emphasizing digital door access (Proximity Open), space utilization, and automated member billing. | **$189 / month** (for up to 40 active members; +$99/mo per location for digital door access hardware integration) | **14-day free trial** with unrestricted access to administrative dashboard and booking tools (no credit card required). |
+| **[Spacebring](https://www.spacebring.com/)** | Mobile-centric coworking platform (formerly andcards) featuring member apps, resource booking, auto-invoicing, and community feeds. | **€158 / month** (~$175/mo for base Business plan; modular add-ons available for branded mobile apps and visitor management) | **7-day free trial** with full access to Business tier features configured via a personalized 1-on-1 setup session (no credit card required). |
+| **[Zapfloor](https://www.zapfloor.com/)** | Modular flex workspace and business center management software with contract management, ticketing, booking, and automated invoicing. | **$99 / month** (Launch tier for small/medium business centers; custom quotes for Growth and Enterprise tiers) | **No free tier or free trial** (interactive 15-minute live personalized demo and consultation provided upon request). |
+| **[Coworks](https://www.coworks.com/)** | Mobile-focused workspace management platform designed for universities, incubators, coworking spaces, and innovation hubs. | **$149 / month** (billed annually, or $199/mo billed monthly for up to 150 members on Hybrid Workspace plan) | **No free tier or free trial** (free personalized live product demo and onboarding assessment available upon booking). |
+| **[Coworkify](https://coworkify.com/)** | Lightweight, easy-to-use coworking management software focused on member management, booking calendars, and recurring billing. | **$29 / month** (starter tier for small coworking spaces and community hubs) | **30-day free trial** with full access to create unlimited spaces and test all features (no credit card required; spaces auto-expire if not upgraded). |
 
 
 
 ## Open-Source GitHub Projects
 
 - **[Seatsurfing](https://github.com/seatsurfing/seatsurfing)**  
-
   Open-source desk sharing, room reservation, free seating, and co-working platform. Includes backend, progressive web app booking UI, and admin interface — well suited for hybrid offices and coworking-style desk management.
 
 - **[WARP (Workspace Autonomous Reservation Program)](https://github.com/sebo-b/warp)**  
-
   Open-source (MIT) system for managing hybrid office space, hot-desks, and assigned seating. Visual booking, mobile/PWA support, reporting, and admin tools for maps, zones, and users.
 
 - **[Bookyp](https://github.com/geprog/bookyp)**  
-
   Open-source platform for managing and booking rooms and workspaces. Focused on space inventory and reservation workflows.
 
 - **[OpenDesk / Workplacify Community](https://workplacify.com/)** (and related open desk-booking projects)  
-
   Open-source desk booking engines and community editions that provide core reservation, user management, and basic analytics for self-hosting.
 
 - **[GreenCoworkingHub](https://github.com/Ivon1/GreenCoworkingHub)** and similar full-stack projects  
-
   Community-built full-stack coworking booking systems (often Angular/.NET or equivalent stacks) with smart booking workflows and conflict detection.
 
 - **Club / Membership Platform Starters** (e.g., club-os style modular monoliths)  
-
   Open-source multi-tenant blueprints that include reservations, memberships, payments, and admin areas — adaptable as foundations for coworking operations.
 
 - **General Open-Source Booking Platforms** (SavSpot and similar AGPL projects)  
-
   Self-hostable booking, scheduling, and CRM tools that can be configured for desks, rooms, and service-based coworking offerings.
 
 - **Access Control & IoT Integration Projects**  
-
   Open-source components for door access, occupancy sensors, and check-in systems that pair with booking platforms.
 
 
@@ -125,16 +86,10 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ### Additional Strong Open-Source Options
 
 - Custom solutions built on open CRMs + calendar systems (Nextcloud, Cal.com, etc.) for lighter membership and booking needs.
-
 - Progressive Web Apps and mobile-friendly reservation frontends that integrate with existing member databases.
-
 - Reporting and utilization analytics scripts that consume booking data from open systems.
-
 - Community event and announcement modules that can be added to booking platforms.
-
 - Integration of open payment gateways and invoicing tools for membership billing.
-
-
 
 **Frameworks for building custom systems**: Many operators combine **Seatsurfing** or **WARP** for core desk/room booking with an open membership database or lightweight CRM, add open payment/invoicing tools, and layer access control hardware integrations. This produces a functional, self-hosted coworking stack that can grow with the space.
 
@@ -143,14 +98,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ## How to Contribute
 
 1. Fork the repo.
-
 2. Add/edit entries in `README.md` (follow existing format).
-
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
 4. Submit PR with a short explanation.
-
-
 
 Star the repo if you find it useful!
 
@@ -159,9 +109,7 @@ Star the repo if you find it useful!
 ## Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-
 - Coworking management tools should be evaluated for membership flexibility, booking reliability, billing automation, access control integrations, multi-location support, and total cost of ownership (including self-hosting effort).
-
 - Fully featured open-source alternatives to the major SaaS platforms are still emerging; most mature open projects currently excel at desk/room reservation rather than complete membership + billing + community suites.
 
 ---
